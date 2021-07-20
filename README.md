@@ -1,8 +1,8 @@
 My name is <a href="https://phil.rigovanov.ru" title="My Visit Card" target="_blank">Philippe&nbsp;Rigovanov</a>. I am a math and informatics teacher interested in statistics, Data&nbsp;Analysis, Data&nbsp;Visualisation, Machine&nbsp;Learning, Natural&nbsp;Language&nbsp;Processing and Web&nbsp;Technologies.
 
-🔭 I’m currently working on <a href="https://ppa4ipa.com" title="PPA" target="_blank">Pictographic Phonetic Alphabet</a>.
-
-You can find me here: <a href="https://novchurch.ru" title="My Local Church" target="_blank">⛪</a>.
+- 🔭 I’m currently working on <a href="https://ppa4ipa.com" title="PPA" target="_blank">Pictographic Phonetic Alphabet</a>.
+- 🎓 I'm also studying in Southern Federal University for BSc in Computer Science and Engineering.
+- You can find me here: <a href="https://novchurch.ru" title="My Local Church" target="_blank">⛪</a>.
 
 <a href="https://braingames.ru" title="Игры разума | a1ip" target="_blank"><img src="https://braingames.ru/button90x62.php?uid=24579" border="0"></a>
 
