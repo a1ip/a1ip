@@ -1,6 +1,6 @@
 My name is <a href="https://phil.rigovanov.ru" title="My Visit Card" target="_blank">Philippe&nbsp;Rigovanov</a>. I am a math and informatics teacher interested in statistics, Data&nbsp;Analysis, Data&nbsp;Visualisation, Machine&nbsp;Learning, Natural&nbsp;Language&nbsp;Processing and Web&nbsp;Technologies.
 
-- 🔭 I’m currently working on <a href="https://ppa4ipa.com" title="PPA" target="_blank">Pictographic Phonetic Alphabet</a>.
+- 🔭 I’m currently working with <a href="https://www.utsc.utoronto.ca/dls/snejina-sonina" title="Snejina Sonina on University of Toronto Scarborough site" target="_blank">Dr. Sonina</a> on <a href="https://ppa4ipa.com" title="PPA" target="_blank">Pictographic Phonetic Alphabet</a>.
 - 🎓 I'm also studying in Southern Federal University for BSc in Computer Science and Engineering.
 - You can find me here: <a href="https://novchurch.ru" title="My Local Church" target="_blank">⛪</a>.
 
