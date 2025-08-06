@@ -1,4 +1,4 @@
-My name is <a href="https://phil.rigovanov.ru" title="My Visit Card" target="_blank"><cite>Philippe&nbsp;Rigovanov</cite></a>.
+My name is <a href="https://phil.rigovanov.ru" title="My Visit Card" target="_blank"><cite>Philippe&nbsp;Rigovanov</cite></a>. I am a husband of one wife.
 I am a math and informatics teacher interested in 🎓&nbsp;education, 🎲&nbsp;statistics, 📈&nbsp;Data&nbsp;Analysis,
 📊&nbsp;Data&nbsp;Visualisation, Machine&nbsp;Learning, 🗣&nbsp;Natural&nbsp;Language&nbsp;Processing and 🕸&nbsp;Web&nbsp;Technologies
 as well as 🤖&nbsp;automation and 🎛&nbsp;optimization tasks.
